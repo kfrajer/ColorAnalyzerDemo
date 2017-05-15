@@ -1,0 +1,12 @@
+http://docs.oracle.com/javase/tutorial/deployment/jar/index.html
+
+https://github.com/processing/processing/wiki/Library-Basics
+https://github.com/Lord-of-the-Galaxy/Timing-Utilities
+
+
+https://forum.processing.org/two/discussion/21049/creating-a-library#latest
+https://forum.processing.org/two/discussion/22128/how-to-integrate-external-library-with-processing#latest
+
+
+https://forum.processing.org/two/discussion/comment/94665#Comment_94665
+https://www.tutorialspoint.com/java/java_documentation.htm
